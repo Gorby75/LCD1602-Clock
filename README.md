@@ -1,5 +1,6 @@
 LCD 1602 Clock
 
+Power on USB
 This project needs the Arduino IDE 1.7.5+
 Arduino Nano 3.0
 LCD 1602 Hitachi HD44780 (or a compatible) chipset
